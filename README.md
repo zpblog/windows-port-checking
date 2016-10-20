@@ -7,3 +7,5 @@ Windows平台下目标主机端口监测脚本
 代码比较简单，我相信大家应该能看懂。
 
 里面用到两个EXE程序需要自行下载一下：sendEmail、PortQry
+
+博文地址：http://zpblog.cn/windows/windows-port-checking.html
